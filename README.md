@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcolb21
 - 👀 I’m interested in Learning coding and database
-- 🌱 I’m currently learning Python and in the future java
+- 🌱 I’m currently learning C# and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me marco_lobato03@hotmail.com
 
